@@ -1,0 +1,24 @@
+body{
+    background: #6c46ff;
+}
+
+.board button{
+    width: 80px;
+    height: 80px;
+    background: yellow;
+    border: 1px solid purple;
+    font-size: 65px;
+    text-align: center;
+}
+#reset{
+    width: 240px;
+    height: 80px;
+    text-decoration-color: aliceblue;
+    font-size: 50px;
+    border-radius: 50px;
+    background: red;
+}
+
+#player1{
+    border: 2px solid blue;
+}
